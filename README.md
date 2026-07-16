@@ -120,9 +120,7 @@ GOOGLE_REDIRECT_URI=http://localhost:3001/api/auth/google/callback
 
 USERS_CACHE_TTL_SECS=300
 ```
-
-> Never commit your `.env` file or any real credentials. Use `.env.example` with placeholder values.
-
+ 
 ---
 
 ## Getting Started

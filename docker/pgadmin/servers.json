@@ -1,0 +1,14 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "my-axum-app",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "myaxumapp",
+      "Username": "myaxumapp",
+      "Password": "admin@123",
+      "SSLMode": "prefer"
+    }
+  }
+}
